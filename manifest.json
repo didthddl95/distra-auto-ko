@@ -1,0 +1,15 @@
+{
+  "name": "Auto Korean Translate",
+  "description": "Opt-in automatic Korean translations in selected guild channels. Sends message text to Google Translate. No DMs.",
+  "authors": [
+    {
+      "name": "Auto KO"
+    }
+  ],
+  "version": "0.1.1",
+  "main": "index.js",
+  "distra": {
+    "spec": 1
+  },
+  "hash": "891af75f74b165847ee42a836dda0517b4e646bf11193caaa1a95f057e579e5c"
+}
